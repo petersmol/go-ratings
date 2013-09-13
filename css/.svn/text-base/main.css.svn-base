@@ -1,0 +1,46 @@
+/* Основные части страницы */
+
+div.player_list{
+	width:70%;
+	float:left;
+}
+
+table{
+border-collapse: collapse;
+}
+
+
+td{
+	border:0;
+	padding: 3px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.player_info{
+	width:30%;
+	float:right;
+}
+
+
+/* Цветовое выделение изменений рейтинга */
+.up{
+  color: green;
+}
+
+.down{
+  color: red;
+}
+
+
+.current_user{
+	background: #e5eecc;
+}
+
+tr.delimiter{
+	font-size: 8px;
+	text-align: left;
+}
+tr.delimiter td{
+	padding: 0px;
+}

@@ -1,0 +1,15 @@
+<Files "admin.php">
+AuthName "Lol nub"
+AuthType Basic
+AuthUserFile /home/smol/www/.htpasswd
+require valid-user
+</Files>
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([^\.\/]+)/?$ index.php?id=$1
+RewriteRule ^([^\.\/]+)/graph$ graphic.php?id=$1
+RewriteRule ^([^\.\/]+)/infobox$ banner.php?id=$1
+RewriteRule ^([^\.\/]+)/infobox/([^\.\/]+)$ banner.php?id=$1&design=$2
+RewriteRule ^([^\.\/]+)/update$ update.php?id=$1
+

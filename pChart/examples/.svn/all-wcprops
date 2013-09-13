@@ -1,0 +1,827 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples
+END
+example.barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.barcode.php
+END
+example.drawStackedBarChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedBarChart.php
+END
+example.drawScatterBestFit.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterBestFit.php
+END
+example.drawBarChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.php
+END
+example.drawBarChart.can.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.can.php
+END
+example.drawGradientArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawGradientArea.php
+END
+example.drawScale.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.php
+END
+example.drawPolygon.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawPolygon.php
+END
+example.drawPlotChart.icon.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawPlotChart.icon.php
+END
+example.drawBarChart.floating.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.floating.php
+END
+example.drawScatterScale.manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterScale.manual.php
+END
+example.drawSpline.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSpline.php
+END
+example.drawBarChart.poll.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.poll.php
+END
+buildAll.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/buildAll.cmd
+END
+example.drawZoneChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawZoneChart.php
+END
+example.polar.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.polar.php
+END
+example.drawScatterLineChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterLineChart.php
+END
+example.drawPlotChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawPlotChart.php
+END
+example.drawDerivative.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawDerivative.php
+END
+example.drawScatter.shape.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatter.shape.php
+END
+example.drawRoundedFilledRectangle.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawRoundedFilledRectangle.php
+END
+example.radar.values.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.radar.values.php
+END
+example.drawBarChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.simple.php
+END
+example.drawLabel.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLabel.php
+END
+example.drawSurface.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSurface.simple.php
+END
+example.drawScale.multiple.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.multiple.php
+END
+example.drawFilledCircle.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFilledCircle.php
+END
+example.drawStackedBarChart.rounded.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedBarChart.rounded.php
+END
+example.spring.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.spring.php
+END
+example.drawAreaChart.threshold.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawAreaChart.threshold.php
+END
+example.drawSurface.palette.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSurface.palette.php
+END
+example.drawLabel.vertical.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLabel.vertical.php
+END
+example.writeBounds.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.writeBounds.php
+END
+example.drawScale.floating.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.floating.php
+END
+example.drawContour.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawContour.php
+END
+example.drawFromGIF.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFromGIF.php
+END
+example.drawArrowLabel.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawArrowLabel.php
+END
+example.addRandomValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.addRandomValues.php
+END
+example.drawStackedAreaChart.normalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedAreaChart.normalized.php
+END
+example.drawLegend.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLegend.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/index.php
+END
+example.drawStockChart.median.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStockChart.median.php
+END
+example.drawSplineChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSplineChart.simple.php
+END
+example.drawBubbleChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBubbleChart.simple.php
+END
+example.draw3DRingValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw3DRingValues.php
+END
+example.drawFilledStepChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFilledStepChart.php
+END
+example.drawLabel.scatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLabel.scatter.php
+END
+example.Mixed.classes.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.Mixed.classes.php
+END
+example.drawThresholdArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawThresholdArea.php
+END
+example.drawSurface.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSurface.php
+END
+example.spring.complex.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.spring.complex.php
+END
+example.drawThreshold.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawThreshold.php
+END
+example.barcode39.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.barcode39.php
+END
+example.drawBestfit.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBestfit.php
+END
+example.drawProgress.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawProgress.php
+END
+example.drawFromJPG.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFromJPG.php
+END
+example.drawStockChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStockChart.php
+END
+example.draw2DRingValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw2DRingValues.php
+END
+example.drawAntialiasPixel.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawAntialiasPixel.php
+END
+example.pData.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.pData.php
+END
+example.radar.labels.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.radar.labels.php
+END
+example.barcode128.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.barcode128.php
+END
+example.drawScatterScale.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterScale.php
+END
+example.drawAreaChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawAreaChart.simple.php
+END
+example.setShadow.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.setShadow.php
+END
+example.text.alignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.text.alignment.php
+END
+example.drawScatterPlotChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterPlotChart.php
+END
+example.drawFilledSplineChart.threshold.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFilledSplineChart.threshold.php
+END
+example.drawAnscombeQuartet.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawAnscombeQuartet.php
+END
+example.singlebarcode39.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.singlebarcode39.php
+END
+example.drawLineChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLineChart.simple.php
+END
+example.drawCircle.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawCircle.php
+END
+example.drawScale.manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.manual.php
+END
+example.basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.basic.php
+END
+example.draw3DPie.labels.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw3DPie.labels.php
+END
+example.drawIndicator.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawIndicator.php
+END
+example.drawScatterLineChart.trigo.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterLineChart.trigo.php
+END
+example.spring.relations.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.spring.relations.php
+END
+example.drawStackedBarChart.can.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedBarChart.can.php
+END
+example.drawScale.dates.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.dates.php
+END
+example.drawFilledSplineChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFilledSplineChart.php
+END
+example.drawStockChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStockChart.simple.php
+END
+example.drawStepChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStepChart.php
+END
+example.drawScatter.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatter.simple.php
+END
+example.drawMedian.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawMedian.php
+END
+example.drawStackedBarChart.border.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedBarChart.border.php
+END
+example.drawStandardDeviation.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStandardDeviation.php
+END
+example.drawScale.color.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.color.php
+END
+example.draw3DPie.transparent.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw3DPie.transparent.php
+END
+example.draw2DPie.labels.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw2DPie.labels.php
+END
+example.drawFromPNG.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFromPNG.php
+END
+example.drawBarChart.shaded.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.shaded.php
+END
+example.drawText.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawText.php
+END
+example.drawFilledRectangle.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawFilledRectangle.php
+END
+example.drawRoundedRectangle.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawRoundedRectangle.php
+END
+example.spring.labels.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.spring.labels.php
+END
+example.drawingObjects.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawingObjects.php
+END
+example.drawStackedAreaChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedAreaChart.php
+END
+example.drawDerivative.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawDerivative.simple.php
+END
+example.drawScatterSplineChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScatterSplineChart.php
+END
+example.drawLineChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLineChart.php
+END
+example.drawBarChart.spacing.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.spacing.php
+END
+example.drawLabel.bubble.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLabel.bubble.php
+END
+example.radar.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.radar.php
+END
+example.drawStackedBarChart.shaded.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStackedBarChart.shaded.php
+END
+example.singlebarcode128.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.singlebarcode128.php
+END
+example.setFontProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.setFontProperties.php
+END
+example.Combo.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.Combo.php
+END
+example.normalize.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.normalize.php
+END
+example.drawStepChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawStepChart.simple.php
+END
+example.drawBarChart.borders.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.borders.php
+END
+example.cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.cache.php
+END
+example.draw2DRing.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw2DRing.php
+END
+example.drawLine.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLine.php
+END
+example.drawAreaChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawAreaChart.php
+END
+example.drawThreshold.labels.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawThreshold.labels.php
+END
+example.drawScale.reverse.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawScale.reverse.php
+END
+example.transparent.background.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.transparent.background.php
+END
+example.drawLabel.barchart.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLabel.barchart.php
+END
+example.drawSplineChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSplineChart.php
+END
+example.drawBarChart.palette.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.palette.php
+END
+example.draw3DRing.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw3DRing.php
+END
+example.drawPlotChart.simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawPlotChart.simple.php
+END
+example.drawSimple.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawSimple.php
+END
+example.drawArrow.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawArrow.php
+END
+example.drawPieLegend.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawPieLegend.php
+END
+example.polar.values.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.polar.values.php
+END
+example.drawBarChart.vertical.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBarChart.vertical.php
+END
+example.drawHarmonicMean.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawHarmonicMean.php
+END
+example.draw2DPie.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw2DPie.php
+END
+example.drawRectangle.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawRectangle.php
+END
+example.draw3DPie.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.draw3DPie.php
+END
+example.drawLabel.caption.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawLabel.caption.php
+END
+example.drawBubbleChart.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBubbleChart.php
+END
+example.split.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.split.php
+END
+example.drawGeometricMean.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawGeometricMean.php
+END
+example.drawBezier.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/petersmol/!svn/ver/2/go.petersmol.ru/pChart/examples/example.drawBezier.php
+END
