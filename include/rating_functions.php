@@ -181,4 +181,32 @@ function player_sort($a,$b){
 	return ($a[$system] > $b[$system]) ? -1 : 1;
 }
 
+// Получает ссылку на профиль РФГ игрока
+function get_rfg_url($id){
+  $cachefile='/tmp/rfg_urls.cache';
+  if (empty($id)) return '';
+
+  # Если нужно, скачиваем новую версию рейтинг-листа
+  if (time()-filemtime($cachefile)>3600){
+    $remote=fopen('http://gofederation.ru/players/',"r");
+    $local=fopen($cachefile, 'w') or die ("Can't open local cache for writing");
+    while ($str=fgets($remote)){
+      fputs($local, $str);
+    }
+
+    fclose($remote);
+    fclose($local);
+  }
+
+  $fp=fopen($cachefile,'r') or die ("Can't open local cache for reading");
+    
+  while ($str=fgets($fp)){
+    if (preg_match('/<td><a href="([a-z0-9\/]+)">'.$id.'<\/a><\/td>/', $str,$matches))
+      $return=$matches[1];
+  } 
+  
+  return $return;
+}
+
+
 ?>

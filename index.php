@@ -71,7 +71,7 @@ $rating=mysql_fetch_assoc($res2);
 			(<a href='http://www.gokgs.com/gameArchives.jsp?user=<?= $show['kgs'] ?>'>партии</a>)
 		</td>
 	</tr><tr>
-		<td>Рейтинг <a href='http://gofederation.ru/ratings/real_rating'>РФГ</a>:</td>
+		<td>Рейтинг <a href='http://gofederation.ru<?= $show['rfg_url'] ?>'>РФГ</a>:</td>
 		<td>
 			<?= $rating['rfg']. " (".elo2kyu($rating['rfg']).")" ?>
 		</td>
