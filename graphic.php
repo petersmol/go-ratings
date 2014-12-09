@@ -39,13 +39,15 @@ foreach ($SYSTEMS as $system){
 	if ($DATA[$system][0]==VOID) $DATA[$system][0]=$max_null; 
 }
 
-// Причесываем дату
+// Округляем дату в зависимости от размера графика
 $cnt=sizeof($DATA["x"]);
 $RUS_MONTH=Array('нул','янв','фев','мар','апр','май','июн','июл','авг','сен','окт','ноя','дек');
 foreach ($DATA["x"] as $key => $val){
 	$month=0+substr($val,5,2);
 	$year=substr($val,2,2);
-	if ($cnt>365) {
+	if ($cnt>2*365) {
+		if(($month-1)%6!=0) $month-=($month-1)%6;
+	}else if ($cnt>365) {
 		if($month%3!=0) $month-=$month%3;
 	}else if ($cnt>30*9) {
 		if($month%2!=0) $month--;
@@ -53,6 +55,26 @@ foreach ($DATA["x"] as $key => $val){
 	if ($month<1) {$month+=12; $year--;}
 	$DATA["x"][$key]=$RUS_MONTH[$month]."'".$year;
 }
+
+// Округляем хвостик в начале
+$first = $DATA["x"][0];
+$cnt_first = 0;
+foreach ($DATA["x"] as $val){
+    if ($val==$first)
+        $cnt_first++;
+    else{
+        $second=$val;
+        break;
+    }
+}
+if ($cnt_first<$cnt/10) 
+  foreach ($DATA["x"] as $key=>$val){
+    if ($val==$first)
+        $DATA["x"][$key]=$second;
+    else{
+        break;
+    }
+  }  
 
 
 

@@ -36,7 +36,7 @@ foreach ($players as $id => $p){
 			<td class='".$p['kgs_class']."'>
 				<a title='".$p['kgs']."'>".$p['kgs_kyu']."</a>
 			</td>
-			<td class='".$p['rfg_class']."'>
+			<td class='".$p['rfg_class']." nobr'>
 				<a title='".$p['rfg']."'>".$p['rfg_kyu']."</a> <font color='#aaaaaa'>/
 				<a title='".$p['egd']."'>".$p['egd_kyu']."</a></font>
 			</td>
@@ -95,7 +95,8 @@ $rating=mysql_fetch_assoc($res2);
 <p/>
 <p/>
 Картинка в подпись:<br>
-<img src='/<?= $showuser ?>/infobox'>
+<? if ($rating['rfg']>=1800) $style='/triangle';  ?>
+<img src='/<?= $showuser ?>/infobox<?= $style ?>'>
 <?	
 
 }

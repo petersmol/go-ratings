@@ -10,7 +10,7 @@ $egd=sqlesc($_REQUEST['egd']);
 $hidden=$_REQUEST['hidden'] ? 1:0;
 
 if ($action=='new'){
-	mysql_query ("INSERT INTO players VALUES ($id, $kgs, $dgs, $rfg, $egd, '0000-00-00 00:00:00',$hidden)") or die (mysql_error());
+	mysql_query ("INSERT INTO players VALUES ($id, $kgs, $dgs, $rfg, NULL, $egd, '0000-00-00 00:00:00',$hidden)") or die (mysql_error());
 	Header ("Location: admin.php");
 }
 else if ($action=='del'){
@@ -19,7 +19,7 @@ else if ($action=='del'){
 }
 else if ($action=='save'){
 	mysql_query ("DELETE FROM players WHERE id=$id") or die (mysql_error());
-	mysql_query ("INSERT INTO players VALUES ($id, $kgs, $dgs, $rfg, $egd, '0000-00-00 00:00:00',$hidden)") or die (mysql_error());
+	mysql_query ("INSERT INTO players VALUES ($id, $kgs, $dgs, $rfg, NULL, $egd, '0000-00-00 00:00:00',$hidden)") or die (mysql_error());
 	Header ("Location: admin.php");
 }
 

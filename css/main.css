@@ -1,4 +1,6 @@
 /* Основные части страницы */
+.nobr {white-space: nowrap}
+
 
 div.player_list{
 	width:500;
