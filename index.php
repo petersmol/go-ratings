@@ -8,7 +8,7 @@
 <div class='player_list'>
 <table class='player_list'>
 <tr><th>Имя</th><th>KGS</th><th><font color='red'>РФГ</font> / <font color='#aaaaaa'>EGD</font></th><th><font color='#a19b00'>DGS</font></th></tr>
-<?
+<?php
 require ('include/rating_functions.php');
 require ('include/player_db.php');
 

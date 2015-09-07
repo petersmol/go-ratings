@@ -201,7 +201,7 @@ function get_rfg_url($id){
   $fp=fopen($cachefile,'r') or die ("Can't open local cache for reading");
     
   while ($str=fgets($fp)){
-    if (preg_match('/<td><a href="([a-z0-9\/]+)">'.$id.'<\/a><\/td>/', $str,$matches))
+    if (preg_match('/<td><a href="?([a-z0-9\/]+)"?>'.$id.'<\/a><\/td>/', $str,$matches))
       $return=$matches[1];
   } 
   
