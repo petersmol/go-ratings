@@ -87,19 +87,20 @@ function kyu2elo($str){
 	return -1;
 }
 
-function elo2kyu($n, $system='rfg'){
-	if ($system=='egd'){
-		$n+=50;
-  }else if ($system=='rfg' and $n<100){ // У рфг шкала в диапазоне 99-0 растянута на 20-30к
-    $n = ($n-90)*10;
-	}
+function elo2kyu($n, $system='kgs'){
+    if ($system=='egd'){
+        $n+=50;
+    }else if ($system=='rfg' and $n<100){ // У рфг шкала в диапазоне 99-0 растянута на 20-30к
+        $n = ($n-90)*10;
+    }
 
 	if ($n==0)
 		return '';
 	if ($n>=2100)
 		return floor($n/100 - 20).'d';
-	else 
+	else{ 
 		return ceil (21 - $n/100).'k';	
+    }
 }
 
 function elo2razryad($n){

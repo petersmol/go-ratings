@@ -84,7 +84,7 @@ $rating=mysql_fetch_assoc($res2);
 		<td>Рейтинг <a href='http://www.dragongoserver.net/ratinggraph.php?uid=<?= $show['dgs'] ?>'>DGS</a>:</td>
 		<td>
 			<? 
-					$percent=$rating['dgs']%100-50;
+					$percent=(abs($rating['dgs'])%100-50) * gmp_sign($rating['dgs']);
 					if ($percent>=0) $percent="+$percent";
 					if ($rating['dgs']) print elo2kyu($rating['dgs'])." ($percent%)"; 
 			?> 
