@@ -41,13 +41,14 @@ function get_rating_dgs($id){
 
 function get_rating_rfg($id){
 	$cachefile='/tmp/rfg.cache';
+
 	if (empty($id)) return '';
 	
 	# Если нужно, скачиваем новую версию рейтинг-листа
 	if (time()-filemtime($cachefile)>3600){
-		$remote=fopen('http://tigr-pro.info/Tigr_Reit.php?LastGameY=2000',"r");
+        $remote=fopen('http://gofederation.ru/players/',"r");
 		$local=fopen($cachefile, 'w') or die ("Can't open local cache for writing");
-		while ($str=iconv('cp1251','utf-8',fgets($remote))){
+		while ($str=fgets($remote)){
 			fputs($local, $str);
 		}
 		fclose($remote);
@@ -57,24 +58,13 @@ function get_rating_rfg($id){
 	$fp=fopen($cachefile,'r') or die ("Can't open local cache for reading");
 	
 	while ($str=fgets($fp)){
-		if (preg_match('/<td>'.$id.'<\/td><td align="center">([0-9]+)<\/td>/', $str,$matches))
-			$return=$matches[1];
+        if (preg_match('/'.$id.'<\/a><\/td><td>([^<>]*)<\/td><td>([0-9]+)<\/td>/', $str,$matches)){
+			$return=$matches[2];
+        }
 	}
 	
 	return $return;
 }
-
-function get_rating_rfg_old($id){
-	if (empty($id)) return '';
-	$fp=fopen('http://gofederation.ru/ratings/real_rating',"r");
-	while ($str=iconv('cp1251','utf-8',fgets($fp))){
-		if (preg_match('/<td>'.$id.'<\/td><td>([^<]+)<\/td><td>([0-9]+)<\/td>/', $str,$matches))
-			$return=$matches[2];
-	}
-	fclose($fp);
-	return $return;
-}
-
 
 function get_rating_egd($id){
 	if (empty($id)) return '';
